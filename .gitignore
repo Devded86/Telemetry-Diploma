@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+postgres_data/
+grafana_data/
+.vscode/
+.idea/
+~$*.docx
+~$*.doc
+*.tmp
